@@ -1,0 +1,4 @@
+url "MVDSV Europe" https://raw.githubusercontent.com/vikpe/qw-data/main/hubapi/servers_mvdsv_europe.txt
+url "QuakeServers URL" http://www.quakeservers.net/lists/servers/global.txt
+master "QuakeServers.net" 78.47.113.68:27000
+master "Asgaard" 5.9.97.180:27000
